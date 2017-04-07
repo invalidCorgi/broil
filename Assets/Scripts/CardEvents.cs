@@ -127,7 +127,6 @@ public class CardEvents : MonoBehaviour
                 this.transform.position = new Vector3(0f, 0f, this.transform.position.z);
                 GlobalStates.isAnyCardZoomed = true;
             }
-			
 		}
 	}
 }
